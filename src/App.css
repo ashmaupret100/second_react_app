@@ -20,10 +20,17 @@ aside {
 }
 
 main {
-  background-color: gray;
+  background-color: white;
   text-align: center;
   width: 70%;
   height: 85vh;
+}
+section {
+  background-color: lightblue;
+  border-radius: 10px;
+}
+article {
+  text-align: center;
 }
 footer {
   background-color: lightblue;
